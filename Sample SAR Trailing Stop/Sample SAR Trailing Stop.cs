@@ -50,10 +50,12 @@ namespace cAlgo
             // ExecuteMarketOrder(tradeType, SymbolName, volumeInUnits, "PSAR TrailingStops");
             
             // determine whether to buy or sell based on the Parabolic SAR
-            //var lastIndex = Bars.ClosePrices.Count - 2; // get the previous bar
-            var lastBarClose = Bars.ClosePrices.Last((1));
-            var lastBarCloseOpen = MarketSeries.Open.Last(1);
-            bool lastBarIsBullish = lastBarClose > lastBarCloseOpen;
+            var lastIndex = Bars.ClosePrices.Count - 2; // get the previous bar
+            var lastBarClose = Bars.ClosePrices[lastIndex];
+            var lastBarOpen = Bars.OpenPrices[lastIndex];
+            bool lastBarIsBullish = lastBarClose > lastBarOpen;
+
+            Print("Last bar closed at {0}, opened at {1}. Bullish? {2}", lastBarClose, lastBarOpen, lastBarIsBullish);
             
             // decide trade direction using both parabloic SAR and candle direction
             TradeType? tradeType = null;

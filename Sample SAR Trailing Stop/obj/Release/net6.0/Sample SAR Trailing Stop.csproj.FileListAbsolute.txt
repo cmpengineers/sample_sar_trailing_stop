@@ -1,0 +1,13 @@
+/Users/abbaskhajah/cAlgo/Sources/Robots/Sample SAR Trailing Stop/Sample SAR Trailing Stop/bin/Release/net6.0/Sample SAR Trailing Stop.deps.json
+/Users/abbaskhajah/cAlgo/Sources/Robots/Sample SAR Trailing Stop/Sample SAR Trailing Stop/bin/Release/net6.0/Sample SAR Trailing Stop.dll
+/Users/abbaskhajah/cAlgo/Sources/Robots/Sample SAR Trailing Stop/Sample SAR Trailing Stop/bin/Release/net6.0/Sample SAR Trailing Stop.pdb
+/Users/abbaskhajah/cAlgo/Sources/Robots/Sample SAR Trailing Stop/Sample SAR Trailing Stop/obj/Release/net6.0/Sample SAR Trailing Stop.csproj.AssemblyReference.cache
+/Users/abbaskhajah/cAlgo/Sources/Robots/Sample SAR Trailing Stop/Sample SAR Trailing Stop/obj/Release/net6.0/Sample SAR Trailing Stop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abbaskhajah/cAlgo/Sources/Robots/Sample SAR Trailing Stop/Sample SAR Trailing Stop/obj/Release/net6.0/Sample SAR Trailing Stop.AssemblyInfoInputs.cache
+/Users/abbaskhajah/cAlgo/Sources/Robots/Sample SAR Trailing Stop/Sample SAR Trailing Stop/obj/Release/net6.0/Sample SAR Trailing Stop.AssemblyInfo.cs
+/Users/abbaskhajah/cAlgo/Sources/Robots/Sample SAR Trailing Stop/Sample SAR Trailing Stop/obj/Release/net6.0/Sample SAR Trailing Stop.csproj.CoreCompileInputs.cache
+/Users/abbaskhajah/cAlgo/Sources/Robots/Sample SAR Trailing Stop/Sample SAR Trailing Stop/obj/Release/net6.0/Sample SAR Trailing Stop.sourcelink.json
+/Users/abbaskhajah/cAlgo/Sources/Robots/Sample SAR Trailing Stop/Sample SAR Trailing Stop/obj/Release/net6.0/Sample SAR Trailing Stop.dll
+/Users/abbaskhajah/cAlgo/Sources/Robots/Sample SAR Trailing Stop/Sample SAR Trailing Stop/obj/Release/net6.0/refint/Sample SAR Trailing Stop.dll
+/Users/abbaskhajah/cAlgo/Sources/Robots/Sample SAR Trailing Stop/Sample SAR Trailing Stop/obj/Release/net6.0/Sample SAR Trailing Stop.pdb
+/Users/abbaskhajah/cAlgo/Sources/Robots/Sample SAR Trailing Stop/Sample SAR Trailing Stop/obj/Release/net6.0/ref/Sample SAR Trailing Stop.dll

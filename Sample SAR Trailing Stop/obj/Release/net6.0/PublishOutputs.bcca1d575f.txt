@@ -1,0 +1,4 @@
+/Users/abbaskhajah/cAlgo/Sources/Robots/Sample SAR Trailing Stop/Sample SAR Trailing Stop/bin/Release/net6.0/publish/Sample SAR Trailing Stop.dll
+/Users/abbaskhajah/cAlgo/Sources/Robots/Sample SAR Trailing Stop/Sample SAR Trailing Stop/bin/Release/net6.0/publish/Sample SAR Trailing Stop.deps.json
+/Users/abbaskhajah/cAlgo/Sources/Robots/Sample SAR Trailing Stop/Sample SAR Trailing Stop/bin/Release/net6.0/publish/Sample SAR Trailing Stop.pdb
+/Users/abbaskhajah/cAlgo/Sources/Robots/Sample SAR Trailing Stop/Sample SAR Trailing Stop/bin/Release/net6.0/publish/cAlgo.API.dll
